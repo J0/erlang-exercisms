@@ -1,0 +1,5 @@
+[0m2021.02.16 00:41:35 INFO  Started: Metals version 0.9.10 in workspace '/Users/joel/Exercism/erlang/leap/src' for client vscode 1.53.1.[0m
+[0m2021.02.16 00:41:44 INFO  time: initialize in 8.86s[0m
+[0m2021.02.16 00:41:54 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.16 00:41:54 WARN  no build tool detected in workspace '/Users/joel/Exercism/erlang/leap/src'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.02.17 18:37:45 INFO  shutting down Metals[0m
